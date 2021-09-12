@@ -23,3 +23,4 @@ blockList:
     - BadGays
   uuids: # 只有开了正版验证的服务端可以封禁uuid，离线服务器只能用usernames
     - 12b8b9e0eba0ca37e935f037ff1ae90d
+profileEndpoint: https://api.mojang.com/profiles/minecraft
